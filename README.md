@@ -28,6 +28,12 @@ streamlit run app.py
 - `netflix_titles.csv` – Dataset
 - `requirements.txt` – Required libraries
 
+  ## Screenshorts
+  <img width="956" height="449" alt="image" src="https://github.com/user-attachments/assets/82d92670-54f5-40f5-90dd-b0e8b0f321d9" />
+  <img width="947" height="402" alt="image" src="https://github.com/user-attachments/assets/5ad7c7d0-1469-476b-a388-a4a60a153f0b" />
+
+
+
 ## created By
 
 **Ambika Kale**
