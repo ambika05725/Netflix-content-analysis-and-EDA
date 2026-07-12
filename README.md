@@ -33,7 +33,7 @@ streamlit run app.py
   <img width="947" height="402" alt="image" src="https://github.com/user-attachments/assets/5ad7c7d0-1469-476b-a388-a4a60a153f0b" />
 
 ## live app 
-https://netflix-content-analysis-and-eda-syhteflhurz5sqbmemnez5.streamlit.app/
+https://netflix-content-analysis-and-eda-tgaefe68x8uvwppxgx3d2d.streamlit.app/
 
 ## created By
 
